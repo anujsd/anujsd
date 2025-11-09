@@ -1,6 +1,6 @@
 👋 Hi, Nice To Meet You
 
-My Uptime Monitoring SaaS <br>
+My Uptime Monitoring Tool <br>
 https://uptimebeats.com/
 
 <!---
