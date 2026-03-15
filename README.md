@@ -1,7 +1,7 @@
 👋 Hi, Nice To Meet You
 
 My Uptime Monitoring Tool <br>
-https://uptimebeats.com/
+https://uptimebeats.com/(acquired)
 
 <!---
 Anujsd/Anujsd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
